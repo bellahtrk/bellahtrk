@@ -1,22 +1,17 @@
 ## Hey 👋, BELLA HUTAURUK !  
   
 <!-- akun GitHub -->
-<a href="https://github.com/fthyll" target="_blank">
+<a href="https://github.com/bellahtrk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<!-- akun Twitter -->
-<a href="https://twitter.com/fthyll" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
 <!-- akun linkedin -->
-<a href="https://linkedin.com/in/fthyll" target="_blank">
+<a href="https://linkedin.com/in/bella-hutauruk-50220a23a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <!-- akun Instagram -->
-<a href="https://instagram.com/fthyll" target="_blank">
+<a href="https://instagram.com/bbellaht" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
@@ -26,7 +21,7 @@ Isi Sendiri
 
 <br/>  
 <!-- isi sendiri pakai username kamu -->
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat"><img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=3" alt="fthyll" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat"><img src="https://github-profile-trophy.vercel.app/?username=bellahtrk&row=2&column=3" alt="fthyll" /></a> </p>
 <table><tr><td valign="center" width="50%">
 
 - 🔭 I’m currently working on .....
